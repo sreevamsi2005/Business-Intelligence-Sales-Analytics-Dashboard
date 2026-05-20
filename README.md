@@ -65,13 +65,6 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 
 
-## 📬 Contact
-Created by Navya Sri Gude
-📧 Email: navyasrigude3@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/navyasrigude032/
-💼 Portfolio: https://effortless-heliotrope-da1672.netlify.app/
-
-Feel free to reach out for feedback, suggestions, or collaboration opportunities!
 
 
 
